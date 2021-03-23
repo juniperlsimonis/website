@@ -1,0 +1,48 @@
+
+[[main]]
+  name = "Science"
+  identifier = "science"
+  url = "/science"
+  weight = "10"
+
+[[main]]
+  name = "Sports"
+  identifier = "sports"
+  url = "/sports/"
+  weight = "20"
+
+[[main]]
+  name = "Writing"
+  identifier = "writing"
+  weight = "30"
+
+[[main]]
+  name = "Blog"
+  parent = "writing"
+  url = "/post/"
+  weight = "31"
+
+
+[[main]]
+  name = "CV"
+  url = "simonis_cv.pdf"
+  weight = "40"
+
+
+[[main_right]]
+  url = "/contact/"
+  name = "<i class='far fa-envelope' style='color:#fff'></i>"
+  identifier = "email"
+  weight = 1
+
+[[main_right]]
+  url = "https://www.github.com/juniperlsimonis"
+  name = "<i class='fab fa-github-alt' style='color:#fff'></i>"
+  identifier = "github"
+  weight = 2
+
+[[main_right]]
+  url = "https://www.twitter.com/juniperlsimonis"
+  name = "<i class='fab fa-twitter' style='color:fff'></i>"
+  identifier = "twitter"
+  weight = 3
