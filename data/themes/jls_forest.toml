@@ -1,18 +1,29 @@
-# Theme metadata
+
 name = "jls_forest"
 
-# Is theme light or dark?
 light = true
 
-# Primary
+
 primary = "#8aba8c"
 
-# Menu
-menu_primary = "#8aba8c"
-menu_text = "#fff"
-menu_text_active = "#1b5e20"
-menu_title = "#fff"
 
-# Home sections
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
+background = "#e9f5de"
+home_section_odd = "#e9f5de"
+home_section_even = "#e9f5de"
+
+menu_primary = "#8aba8c"
+menu_text = "#1b5e20"
+menu_text_active = "#227e54"
+menu_title = "#1b5e20"
+
+
+[dark]
+  background = "#445a56"
+  home_section_odd = "#445a56"
+  home_section_even = "#445a56"
+
+  menu_primary = "#295248"
+  menu_text = "#c1decf"
+  menu_text_active = "#367f7d"
+  menu_title = "#c1decf"
+

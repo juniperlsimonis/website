@@ -1,15 +1,7 @@
 ---
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
-
-# Activate this widget? true/false
 active: true
-
-# This file represents a page section.
 headless: true
-
-# Order that this section appears on the page.
 weight: 1
 
 title:
@@ -17,15 +9,8 @@ subtitle:
 
 design:
   columns: "1"
-  background:
-    image: homepage_image.JPG
-    image_darken: 0
-    image_parallax: true
-    image_size: cover
-    image_position: center
-    text_color_light: true
   spacing:
-    padding: ["600px", "0", "600px", "0"]
-advanced:
-  css_class: 
+    padding: ["50px", "0", "50px", "0"]
 ---
+
+{{< figure src="media/homepage_image.JPG" alt="Two rustic one-room wood cabins set in an old growth Pacific Northwest forest. There are lots of shades of green and grey and brown and tan throughout the frame, as many plants grow densly in the landscape. Moss covers pine branches and rooftops of the cabins. Although you can't see it in the frame, from this location you can certainly hear the river alongside the cabins running. It's midday and the lighting is neutral and allows the colors to stand out without popping." >}}

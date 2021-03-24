@@ -9,7 +9,7 @@
 # Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
 theme = "jls_forest"
 
-day_night = false
+day_night = true
 
 # Guide to font sets: https://wowchemy.com/docs/customization/#fonts
 font = "native"
@@ -49,10 +49,10 @@ show_related = false
 
 email = "contact@juniperlsimonis.com"
 phone = ""
-address = {street = "", city = "Portland", region = "OR", postcode = "", country = "United States", country_code = "US"}
+address = {street = "", city = "", region = "", postcode = "", country = "", country_code = ""}
 coordinates = {latitude = "", longitude = ""}
 directions = ""
-office_hours = [""]
+office_hours = ""
 appointment_url = ""
 contact_links = []
 
@@ -64,7 +64,7 @@ contact_links = []
 sharing_image = "sharing_image.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "chemweaponsci"
+twitter = "juniperlsimonis"
 
 ############################
 ## Regional Settings
@@ -84,7 +84,7 @@ address_format = "en-us"
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {enable = true, align = "r", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = false, show_search = true}
+main_menu = {enable = true, align = "r", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = true, show_search = true}
 
 # Enable in-built social sharing buttons? (true/false)
 sharing = true
@@ -96,6 +96,7 @@ copyright_license = {enable = false, allow_derivatives = false, share_alike = tr
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
 plugins_js  = []
+plugins_scss = ["custom"]
 
 # Avatars.
 # An avatar is an image that appears next to a user's name.
