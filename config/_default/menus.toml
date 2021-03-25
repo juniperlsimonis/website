@@ -22,12 +22,34 @@
   url = "/post/"
   weight = "31"
 
+[[main]]
+  name = "Photography"
+  url = "/photos/"
+  identifier = "photos"
+  weight = "40"
+
+[[main]]
+  name = "About"
+  identifier = "about"
+  weight = "50"
 
 [[main]]
   name = "CV"
+  parent = "about"
   url = "simonis_cv.pdf"
-  weight = "40"
+  weight = "51"
 
+[[main]]
+  name = "<i class='ai ai-google-scholar'></i>"
+  parent = "about"
+  url = "https://scholar.google.co.uk/citations?hl=en&user=XXg3600AAAAJ"
+  weight = 52
+
+[[main]]
+  name = "<i class='fab fa-orcid'></i>"
+  parent = "about"
+  url = "https://orcid.org/0000-0001-9798-0460"
+  weight = 53
 
 [[main_right]]
   url = "/contact/"

@@ -9412,3 +9412,9 @@ div.chart {
   font-weight: 400;
   font-size: 1.1rem;
   color: #b2b2b2; }
+
+figcaption {
+  font-style: italic;
+  font-size: 0.75rem;
+  padding: 2px;
+  text-align: right; }
