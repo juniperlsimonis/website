@@ -22,3 +22,14 @@ h3.article-title a:hover {
   color: #7b8279;
 }
 
+.featured-image {
+  border: 0.1rem solid #8e948d;
+  border-radius: 2%;
+}
+
+.article-header-caption {
+  padding: 2px 8px;
+  bottom: 0.1rem;
+  right: 0.1rem;
+  border-radius: 10px 10px 10px 10px;
+}
