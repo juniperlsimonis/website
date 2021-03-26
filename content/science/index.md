@@ -10,7 +10,7 @@ image:
 <br> 
 <small>
 
-[Dr. Simonis](https://www.dapperstats.com/author/dr.-juniper-l.-simonis/) has a PhD in Ecology and Evolutionary Biology from Cornell University (2013) and is the Owner & Lead Scientist of [DAPPER Stats](https://dapperstats.com), a Portland, OR-based quantitative ecology consulting company.
+[Dr. Simonis](https://www.dapperstats.com/author/dr.-juniper-l.-simonis/) has a PhD in Ecology and Evolutionary Biology from Cornell University and is the Owner & Lead Scientist of [DAPPER Stats](https://dapperstats.com), a Portland, OR-based quantitative ecology consulting company.
 
 They are also a founding member of the [Chemical Weapons Research Consortium](https://www.chemicalweaponsresearch.com), an international research and activism collective focused on understanding the impact of chemical weapons on people, communities, and the environment.
 

@@ -10,7 +10,7 @@ image:
 <br> 
 <small>
 
-[Juniper](https://wftda.com/featured-skater-juniper-simonis/) has been competing in [roller derby](https://wftda/com) since 2012 and is a current member of the [defending world champion](https://wftda.com/events/tournament-central/2019-championships/) and [#1 Ranked](https://stats.wftda.com/league/rose-city-rollers) [Rose City Rollers](https://wftda.com/featured-league/rose-city) [Wheels of Justice](http://www.rosecityrollers.com/teams/wheels-of-justice/).
+[Juniper](https://wftda.com/featured-skater-juniper-simonis/) has been playing [roller derby](https://wftda/com) since 2012 and is a current member of the [defending world champion](https://wftda.com/events/tournament-central/2019-championships/) and [#1 Ranked](https://stats.wftda.com/league/rose-city-rollers) [Rose City Rollers](https://wftda.com/featured-league/rose-city) [Wheels of Justice](http://www.rosecityrollers.com/teams/wheels-of-justice/).
 
 Juniper competed in the WFTDA world championships in [2014 (did not place)](https://wftda.org/tournaments/2014/championships) with the Windy City Rollers and in [2015 (1st Place)](https://wftda.org/tournaments/2015/championships), [2016 (1st Place)](https://wftda.com/events/tournament-central/2016-international-championships/), [2017 (2nd Place)](https://wftda.com/events/tournament-central/2017-international-championships/), [2018 (1st Place)](https://wftda.com/events/tournament-central/2018-international-championships/), and [2019 (1st Place)](https://wftda.com/events/tournament-central/2019-championships/) with Rose City.  
 

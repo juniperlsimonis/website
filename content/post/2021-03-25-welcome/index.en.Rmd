@@ -1,0 +1,9 @@
+---
+title: "Welcome"
+author: "Dr. Juniper L. Simonis (they/them)"
+date: 2021-03-25
+categories: ["general"]
+tags: ["first post", "general", "welcome"]
+---
+
+Hello and welcome to the personal website of [Dr. Juniper L. Simonis](https://www.juniperlsimonis.com) (_they/them/theirs_). 

@@ -2,6 +2,7 @@
 header:
   caption: ""
   image: ""
-title: Latest News
+title: Web Log
+subtitle: Dr. Juniper L. Simonis (they/them/theirs)
 view: 2
 ---

@@ -34,7 +34,7 @@
   weight = "50"
 
 [[main]]
-  name = "CV"
+  name = "<i class='ai ai-cv'></i>"
   parent = "about"
   url = "simonis_cv.pdf"
   weight = "51"
