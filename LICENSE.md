@@ -27,7 +27,7 @@ NON-SOFTWARE
 
 CC-BY-4.0
 
-Copyright (c) 2021 Dr. Juniper L. Simonis
+Copyright (c) 2021 Specified Authors (or Dr. Juniper L. Simonis)
 
 Attribution 4.0 International
 

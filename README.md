@@ -2,4 +2,4 @@
 
 # Dr. Juniper L. Simonis
 
-Repository that builds [Juniper's website](juniperlsimonis.com).
+Repository that builds [Juniper's website](https://juniperlsimonis.com).
