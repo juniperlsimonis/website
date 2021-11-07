@@ -18,7 +18,7 @@ design:
 
 <small>
 
-Juniper is an avid science photographer whose subjects range from the urban chemical warzones to craggy coastlines where they conduct research. 
-They are currently collating their photos into projects. 
+Juniper is an avid science photographer whose subjects range from the urban chemical warzones to craggy coastlines where they conduct research.  
+They are currently collating their photos into projects.  
 Stay tuned!
 </small>
