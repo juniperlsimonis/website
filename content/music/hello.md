@@ -10,7 +10,7 @@ subtitle:
 design:
   columns: "1"
   spacing:
-    padding: ["10px", "0", "50px", "0"]
+    padding: ["50px", "0", "50px", "0"]
 ---
 
 # Forever a Percussionist
