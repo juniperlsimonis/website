@@ -28,6 +28,12 @@
   identifier = "photos"
   weight = "40"
 
+[[main]]
+  name = "Music"
+  url = "/music/"
+  identifier = "music"
+  weight = "0"
+
 
 
 [[main_right]]
