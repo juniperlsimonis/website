@@ -14,25 +14,21 @@
 [[main]]
   name = "Writing"
   identifier = "writing"
+  url = "/writing/"
   weight = "30"
 
-[[main]]
-  name = "Blog"
-  parent = "writing"
-  url = "/post/"
-  weight = "31"
 
 [[main]]
   name = "Photography"
-  url = "/photos/"
-  identifier = "photos"
+  url = "/photography/"
+  identifier = "photography"
   weight = "40"
 
 [[main]]
   name = "Music"
   url = "/music/"
   identifier = "music"
-  weight = "0"
+  weight = "50"
 
 
 

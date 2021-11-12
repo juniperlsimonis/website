@@ -9413,6 +9413,9 @@ div.chart {
   font-size: 1.1rem;
   color: #b2b2b2; }
 
+figure {
+  margin-top: 1.5rem; }
+
 figcaption {
   font-style: italic;
   font-size: 0.75rem;
