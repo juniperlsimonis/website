@@ -9416,8 +9416,7 @@ div.chart {
 figcaption {
   font-style: italic;
   font-size: 0.75rem;
-  padding: 2px;
-  text-align: right; }
+  padding: 2px; }
 
 .dark a,
 h3.article-title a:hover {
@@ -9436,3 +9435,10 @@ h3.article-title a:hover {
   bottom: 0.1rem;
   right: 0.1rem;
   border-radius: 10px 10px 10px 10px; }
+
+iframe {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 1.5rem;
+  margin-top: 1.5rem; }
