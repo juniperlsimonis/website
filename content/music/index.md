@@ -11,6 +11,8 @@ image:
 <small> 
 A life-long musician who could syncopate before they could speak, Juniper is a classically trained percussionist, set drummer, and sound collager.  
 
+
+
 They've performed and recorded with a range of ensembles including
 
 
