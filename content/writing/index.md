@@ -9,7 +9,7 @@ image:
 
 <small>
  
-Juniper writes on a range of topics from staistical coding to trans inclusion in sports to chemical weapons history.  
+Juniper writes on a range of topics from statistical coding to trans inclusion in sports to chemical weapons history.  
 
 ## Recent Publications
 
