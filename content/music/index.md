@@ -9,9 +9,11 @@ image:
 
 
 <small> 
-A life-long musician who could syncopate before they could speak, Juniper is a classically trained percussionist, set drummer, and sound collager.  
 
-They've performed and recorded with a range of ensembles including
+A life-long musician who could syncopate before they could speak, Juniper is a classically trained percussionist, set drummer, and sound collager.
+
+  
+They've performed and recorded with wind ensembles, jazz groups, and rock bands and are currently on a new adventure they hope to share soon.
 
 
 ## [The Oresund Sound](https://theoresundsound.bandcamp.com/)

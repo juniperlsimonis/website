@@ -11,4 +11,11 @@ image:
 
 Juniper is an avid science photographer whose subjects range from the urban chemical warzones to craggy coastlines where they conduct research.  
 
+Some of their recent cutlines and credits include 
+
+- [NBC News](https://www.nbcnews.com/news/us-news/police-clash-residents-portland-over-discarded-food-after-power-outage-n1258091)  
+- [The New York Times](https://www.nytimes.com/2021/02/17/us/oregon-fred-meyer-food-snowstorm.html)  
+- [Reuters News](https://www.reuters.com/video/watch/idOVCNCDWBJ)  
+- [Urban Ecology & Conservation Symposium](https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1219&context=uerc)  
+
 </small>
