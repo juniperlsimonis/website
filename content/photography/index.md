@@ -9,9 +9,9 @@ image:
 
 <small>
 
-Juniper is an avid science photographer whose subjects range from the urban chemical warzones to craggy coastlines where they conduct research.  
+Juniper is an avid science photographer whose subjects range from the urban chemical warzones to craggy coastlines where she conducts research.  
 
-Some of their recent cutlines and credits include 
+Some of her recent cutlines and credits include 
 
 - [NBC News](https://www.nbcnews.com/news/us-news/police-clash-residents-portland-over-discarded-food-after-power-outage-n1258091)  
 - [The New York Times](https://www.nytimes.com/2021/02/17/us/oregon-fred-meyer-food-snowstorm.html)  

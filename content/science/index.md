@@ -2,7 +2,7 @@
 show_date: false
 share: false
 image:
-  alt_text: "Juniper writing some math at a white board (the sum of rho sub i times x sub i over i from 1 to N) while looking back at the camera over their left shoulder. Their hair is close shaved around the sides and done up in a curly mess. Their eye brows are sharp and they are wearing dangly circle earrings with silver hoops and blue beads. They are giving a smirky smize look at the camera and their freckles are plentiful and multi-colored." 
+  alt_text: "Juniper writing some math at a white board (the sum of rho sub i times x sub i over i from 1 to N) while looking back at the camera over their her shoulder. Her hair is close shaved around the sides and done up in a curly mess. Her eye brows are sharp and she is wearing dangly circle earrings with silver hoops and blue beads. She is giving a smirky smize look at the camera and her freckles are plentiful and multi-colored." 
   caption: "M Harris 2020"
   placement: 1
 ---
@@ -12,6 +12,6 @@ image:
 
 [Dr. Simonis](https://www.dapperstats.com/author/dr.-juniper-l.-simonis/) has a PhD in Ecology and Evolutionary Biology from Cornell University and is the Owner & Lead Scientist of [DAPPER Stats](https://dapperstats.com), a Portland, OR-based quantitative ecology consulting company.
 
-They are also the Founder & Executive Director of the [Chemical Weapons Research Center](https://www.chemicalweaponsresearch.com), a research, education, and activism [Benefit Company](https://sos.oregon.gov/business/Pages/benefit-company-faq.aspx) focused on understanding the impact of chemical weapons on people, communities, and the environment.
+She is also the Founder & Executive Director of the [Chemical Weapons Research Center](https://www.chemicalweaponsresearch.com), a research, education, and activism [Benefit Company](https://sos.oregon.gov/business/Pages/benefit-company-faq.aspx) focused on understanding the impact of chemical weapons on people, communities, and the environment.
 
 </small>
